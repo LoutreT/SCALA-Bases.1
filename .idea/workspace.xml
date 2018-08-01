@@ -21,6 +21,7 @@
     <session id="-1614139330">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -31,10 +32,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="807" />
-    <option name="y" value="237" />
+    <option name="x" value="939" />
+    <option name="y" value="231" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="986" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,7 +126,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="807" y="237" width="1400" height="1000" extended-state="0" />
+    <frame x="939" y="231" width="1400" height="986" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -136,7 +137,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3352872" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
